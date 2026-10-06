@@ -2,3 +2,4 @@ IS316 - Group 404NotFound
 
 Sarah : this is my message, i love data science 
 Norah: GitHub makes collaboration easier and more organized.
+Basmah:GitHub provides a great platform for our team to collaborate seamlessly on our IS316 project.
